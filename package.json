@@ -1,0 +1,28 @@
+{
+    "name": "light-print",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "version": "1.0.0",
+    "publisher": "Ayman Ali",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "light print",
+                "label": "%themeLabel%",
+                "uiTheme": "vs-light",
+                "path": "./themes/light-print.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aymanabual/lightprint.git"
+    }
+}
