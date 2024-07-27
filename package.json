@@ -3,7 +3,7 @@
     "displayName": "%displayName%",
     "description": "%description%",
     "version": "1.0.0",
-    "publisher": "Ayman Ali",
+    "publisher": "ayman-ali",
     "license": "MIT",
     "engines": {
         "vscode": "*"
