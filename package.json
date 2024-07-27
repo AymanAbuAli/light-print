@@ -3,8 +3,9 @@
     "displayName": "%displayName%",
     "description": "%description%",
     "version": "1.0.0",
-    "publisher": "ayman-ali",
+    "publisher": "AymanAli",
     "license": "MIT",
+    "icon": "coding.png",
     "engines": {
         "vscode": "*"
     },
@@ -23,6 +24,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/aymanabual/light-print.git"
+        "url": "https://github.com/aymanabuali/light-print.git"
     }
 }
