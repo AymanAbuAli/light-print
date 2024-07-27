@@ -2,9 +2,8 @@
     "name": "light-print",
     "displayName": "%displayName%",
     "description": "%description%",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "AymanAli",
-    "license": "MIT",
     "icon": "coding.png",
     "engines": {
         "vscode": "*"
